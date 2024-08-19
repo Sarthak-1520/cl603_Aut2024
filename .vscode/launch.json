@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sarthakmishra/Documents/Repos/cl603_Aut2024",
+      "program": "/Users/sarthakmishra/Documents/Repos/cl603_Aut2024/build/Debug/outDebug"
+    }
+  ]
+}
